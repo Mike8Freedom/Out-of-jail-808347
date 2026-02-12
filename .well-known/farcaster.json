@@ -1,0 +1,14 @@
+{
+  "accountAssociation": { "header": "1", "payload": "1", "signature": "1" },
+  "frame": {
+    "version": "1",
+    "name": "Out of Jail 808347",
+    "homeUrl": "https://outofjail808347.vercel.app",
+    "iconUrl": "https://outofjail808347.vercel.app/Icon.png",
+    "splashImageUrl": "https://outofjail808347.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "buttonTitle": "⚡️ START MISSION",
+    "primaryCategory": "games",
+    "heroImageUrl": "https://outofjail808347.vercel.app/hero.png"
+  }
+}
