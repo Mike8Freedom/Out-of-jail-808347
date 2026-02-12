@@ -3,12 +3,12 @@
   "frame": {
     "version": "1",
     "name": "Out of Jail 808347",
-    "homeUrl": "https://outofjail808347.vercel.app",
-    "iconUrl": "https://outofjail808347.vercel.app/Icon.png",
-    "splashImageUrl": "https://outofjail808347.vercel.app/splash.png",
+    "homeUrl": "https://nextjs-boilerplate-gamma-liard-bepc4do95a.vercel.app",
+    "iconUrl": "https://nextjs-boilerplate-gamma-liard-bepc4do95a.vercel.app/Icon.png",
+    "splashImageUrl": "https://nextjs-boilerplate-gamma-liard-bepc4do95a.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
     "buttonTitle": "⚡️ START MISSION",
     "primaryCategory": "games",
-    "heroImageUrl": "https://outofjail808347.vercel.app/hero.png"
+    "heroImageUrl": "https://nextjs-boilerplate-gamma-liard-bepc4do95a.vercel.app/hero.png"
   }
 }
