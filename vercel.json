@@ -1,8 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/game/:path*",
-      "destination": "https://echoesoftheheroes.com/:path*"
+      "source": "/game",
+      "destination": "https://echoesoftheheroes.com/"
+    },
+    {
+      "source": "/game/(.*)",
+      "destination": "https://echoesoftheheroes.com/$1"
     }
   ]
 }
